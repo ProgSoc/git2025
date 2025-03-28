@@ -35,7 +35,7 @@ Ideas:
 
 [W3Schools HTML Example Syntax](https://www.w3schools.com/html/html_examples.asp)
 
-###g Managing Merge Conflicts
+### Managing Merge Conflicts
 
 Merge conflicts occur when multiple people make changes to the same lines in a file.
 They show you what currently exists and your incoming change and you have to resolve it manually.

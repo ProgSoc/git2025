@@ -53,7 +53,7 @@ This can be done as a group or individually if you're just following along by yo
 4. Merge one of the pull requests
 5. Trying to merge using gh pr merge for the second branch should now fail.
 6. The other person will be shown by GitHub CLI how to solve the merge conflict.
-    Once it's resolved they'll be able to merge their branch with main!
+Once it's resolved they'll be able to merge their branch with main!
 
 
 ## Additional Resources
